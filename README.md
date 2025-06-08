@@ -55,5 +55,3 @@ Sau khi chạy thành công, truy cập [http://127.0.0.1:8000/](http://127.0.0.
 **Tác giả**: Quan Nguyen Duong Minh
 📧 Email: [mquan5526@gmail.com](mailto:mquan5526@gmail.com)
 📍 Thành phố Hồ Chí Minh, Việt Nam
-
-```
